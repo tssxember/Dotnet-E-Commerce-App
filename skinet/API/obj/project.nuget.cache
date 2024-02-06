@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uo1YWiQH12vElbLT4GmbGLUHAcoI02E+d4uepOf8mqSAEIrTMfbA6XbUApHKI5AzIXYjbO0K7/1dqrO7jz7tVw==",
+  "dgSpecHash": "hsCjjECF38PfOtkjJX1y9wsa48AfrVE8Ia19Bk7h0T7Eh6pRlNwuQdnyublPG/lDkFER1BJxdik15d00dJPOQA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\tssxe\\Documents\\e-commerceApp\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\tssxe\\Documents\\e-commerceApp\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tssxe\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\tssxe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
